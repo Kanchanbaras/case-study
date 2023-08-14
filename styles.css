@@ -1,0 +1,125 @@
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F8F8F8;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  .case-study {
+    background-color: #fff;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  h2 {
+    color: #336699;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  .overview-content {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 150px;
+  }
+  .overview-box {
+    background-color: #F2F2F2;
+    padding: 1rem;
+    border-radius: 15px;
+    margin-left: 1rem;
+    height: 350px;
+    width: 1050px;
+    margin-right: 250px;
+    background-color: #888888;
+  }
+  .project-image {
+    max-width: 100%;
+    margin-top: 1rem;
+  }
+  .problem-text {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .research-pain-points {
+    display: flex;
+    justify-content: space-between;
+  }
+  .research-box {
+    width: 490px;
+    height: 490px;
+    background-color: #F2F2F2;
+    border-radius: 5px;
+    background-color: #888888;
+  }
+  .flow-box,
+  .matrix-box {
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: #F2F2F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #888888;
+  }
+  .current-website {
+    display: flex;
+    justify-content: space-between;
+  }
+  .current-box {
+    width: 600px;
+    height: 800px;
+    background-color: #F2F2F2;
+    border-radius: 5px;
+    background-color: #888888;
+  }
+  .redesign-wireframes {
+    display: flex;
+    justify-content: space-between;
+  }
+  .redesign-box {
+    width: 400px;
+    height:600px;
+    background-color: #F2F2F2;
+    border-radius: 18px;
+    background-color: #888888;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  .iterations{
+    display: flex;
+    justify-content: space-between;
+  }
+  .iteration-box{
+    width: 400px;
+    height:600px;
+    background-color: #F2F2F2;
+    border-radius: 18px;
+    background-color: #888888;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  .takeaways-box{
+    width: 900px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: #F2F2F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #888888;
+    border-radius: 18px;
+  }
+  .takeaways-box p{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
